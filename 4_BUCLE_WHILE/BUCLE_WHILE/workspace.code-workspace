@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\ESP32\\ESP-IDF SDK\\00_HELLO_WORLD\\blink"
+		},
+		{
+			"name": "BUCLE_WHILE",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
